@@ -8,6 +8,7 @@ Projeto de PI do 3º Semestre - Prof Enoque Leal
  2) Tela de Login O cliente poderá fazer o seu cadastro e login no sistema.
 
  3) Cadastro do Usuário Cada dono de pet poderá se cadastrar para poder fazer a sua assinatura em um dos planos oferecidos. Informações básicas terão de ser preenchidas como:
+    
  -Nome
  -CPF
  -RG
@@ -18,7 +19,8 @@ Projeto de PI do 3º Semestre - Prof Enoque Leal
  -Senha
  -Quantidade de pets (será possível aumentar/diminuir)
 
- 4)Cadastro dos Pets Cada dono de pet poderá cadastrar seus animais e preencher as informações básicas sobre eles como:
+ 5) Cadastro dos Pets Cada dono de pet poderá cadastrar seus animais e preencher as informações básicas sobre eles como:
+    
  -Nome
  -Espécie
  -Gênero
@@ -27,9 +29,9 @@ Projeto de PI do 3º Semestre - Prof Enoque Leal
  -Vacinas
  -Foto
 
- 5)Tela de Assinatura Nessa tela o usuário poderá escolher o plano ideal para seu pet
+ 7) Tela de Assinatura Nessa tela o usuário poderá escolher o plano ideal para seu pet
 
- 6)Banco de Dados:
+ 8) Banco de Dados:
 
  -Clínicas
  -Usuários
